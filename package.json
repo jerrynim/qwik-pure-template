@@ -1,0 +1,8 @@
+{
+  "name": "qwik-pure-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jerrynim/qwik-pure-template.git",
+  "author": "jerrynim <jerrynim@zigbang.com>",
+  "license": "MIT"
+}
